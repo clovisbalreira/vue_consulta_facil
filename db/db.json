@@ -1,0 +1,19 @@
+{
+  "personal": {
+    "name": "htsthsg",
+    "cpf": "111.111.111-11",
+    "phone": "(11) 1 1111-1111",
+    "codState": 1,
+    "codCity": 1
+  },
+  "profissional": {
+    "specialization": 1,
+    "price": "300",
+    "payment": {
+      "money": true,
+      "pix": false,
+      "cart": false
+    },
+    "installments": "0"
+  }
+}
